@@ -1,0 +1,12 @@
+{
+	"name": "@yu-admin/components",
+	"version": "1.0.1",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"pub": "npm publish --access=public",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "MIT"
+}
